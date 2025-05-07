@@ -28,3 +28,7 @@ This project automates product search and filtering on [Daraz.pk](https://www.da
         npx playwright test
 
 
+The test output shows exactly this behavior:
+               The test found 40 products
+               It checked for free shipping
+               Free shipping was not available (Free shipping available: false)
