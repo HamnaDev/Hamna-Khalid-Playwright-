@@ -23,6 +23,7 @@ This project automates product search and filtering on [Daraz.pk](https://www.da
 - Git for version control
 
 --Install Dependencies
+        
         npm install
         npm install @playwright/test
         npx playwright test
